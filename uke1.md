@@ -2,11 +2,6 @@
 
 ## 1 Terminalen
 
-Terminalen er et program der vi kan skrive kommandoer direkte til datamaskinen.  
-Det kan virke litt uvant i starten, men gir oss mer kontroll enn å bare bruke mus og menyer.  
-
----
-
 ### 1.1 Pakkebehandlere (package managers)
 
 En **pakkebehandler** er et verktøy i terminalen som gjør det enkelt å installere programmer.  
@@ -40,23 +35,20 @@ Fordeler: temaer, bedre oversikt, og nyttige snarveier.
 
 ### 1.3 Nyttige terminal-kommandoer
 
-| Kommando         | Hva den gjør                      |
-| ---------------- | --------------------------------- |
-| `cd MAPPENAVN`   | Gå inn i en mappe                 |
-| `pwd`            | Vis hvilken mappe du er i nå      |
-| `ls`             | Vis alle filer i mappen           |
-| `mkdir NAVN`     | Lag en ny mappe                   |
-| `rm FILNAVN`     | Slett en fil (OBS! ingen angre)   |
-| `clear`          | Tøm skjermen i terminalen         |
-| `code .`         | Åpne denne mappen i VS Code       |
+| Kommando       | Hva den gjør                 |
+| -------------- | ---------------------------- |
+| `cd MAPPENAVN` | Gå inn i en mappe            |
+| `pwd`          | Vis hvilken mappe du er i nå |
+| `ls`           | Vis alle filer i mappen      |
+| `mkdir NAVN`   | Lag en ny mappe              |
+| `rm FILNAVN`   | Slett en fil                 |
+| `clear`        | Tøm skjermen i terminalen    |
+| `code .`       | Åpne denne mappen i VS Code  |
 
 ---
 
 ## 2 Python
 
-Python er programmeringsspråket vi skal bruke. Først må vi installere det riktig.  
-
----
 
 ### 2.1 Installere Python
 
