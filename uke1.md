@@ -2,6 +2,11 @@
 
 ## 1 Terminalen
 
+### 1.0 Anbefalt terminal
+
+- Mac: [iTerm2](https://iterm2.com/)
+- Windows: [Windows terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US)
+
 ### 1.1 Pakkebehandlere (package managers)
 
 En **pakkebehandler** er et verktøy i terminalen som gjør det enkelt å installere programmer.  
