@@ -66,7 +66,7 @@ Etterpå:
 - **Mac:** dobbeltklikk `Install Certificates` i Python-mappen.  
 - **Windows:** husk å huke av for *"Add to PATH"* under installasjonen.  
 
-💡 Test installasjonen:  
+Test installasjonen:  
 - Mac: `python3 --version`  
 - Windows: `python --version`  
 
