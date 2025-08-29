@@ -104,7 +104,7 @@ Du kan skru det av med `deactivate`.
 - `pip install PAKKENAVN`  
 
 Eksempel:  
-- `pip install requests`  
+- `pip install yt-dlp` 
 
 ---
 
