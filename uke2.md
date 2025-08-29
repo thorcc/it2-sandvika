@@ -1,4 +1,4 @@
-# Uke 2 - API, JSON og Flaski
+# Uke 2 - API, JSON og Flask
 
 ## API
 
