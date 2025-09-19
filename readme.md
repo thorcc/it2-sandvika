@@ -6,4 +6,4 @@ Oppgaver og _vanlig_ fagstoff er i læreboka - sjekk årsplanen på Teams.
 - [Uke 1 - Terminalen og Python](./uke1.md)
 - [Uke 2 - API-er og Flask](./uke2.md)
 - [Uke 3 - Funksjoner](./uke3.ipynb)
-
+- [Uke 5 - Webscraping og cookies](./scraping-med-cookies.md)
